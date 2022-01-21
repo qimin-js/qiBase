@@ -1,0 +1,3 @@
+/home/qimin/c++/lib/timer/build/CMakeFiles/edit_cache.dir
+/home/qimin/c++/lib/timer/build/CMakeFiles/rebuild_cache.dir
+/home/qimin/c++/lib/timer/build/CMakeFiles/timer.dir

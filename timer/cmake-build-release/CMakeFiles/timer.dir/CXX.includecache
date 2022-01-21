@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/qimin/c++/lib/timer/src/timer.cpp
+timer.h
+/home/qimin/c++/lib/timer/src/timer.h
+
+/home/qimin/c++/lib/timer/src/timer.h
+iostream
+-
+thread
+-
+chrono
+-
+atomic
+-
+functional
+-
+

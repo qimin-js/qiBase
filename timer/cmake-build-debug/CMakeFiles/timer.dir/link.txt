@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libtimer.so -o libtimer.so CMakeFiles/timer.dir/src/timer.cpp.o 
